@@ -18,10 +18,10 @@ I'm a second-year Information Technology undergraduate interested in building us
 ### 🛠️ Technologies & tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,solidity,fastapi,sqlite,hardhat,git,github" alt="C, C++, Python, JavaScript, Solidity, FastAPI, SQLite, Hardhat, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,solidity,fastapi,sqlite,html,css,git,github" alt="C, C++, Python, JavaScript, Solidity, FastAPI, SQLite, HTML, CSS, Git, GitHub" />
 </p>
 
-**Also used:** Gemini API · MetaMask · Sepolia
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge) ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge) ![Sepolia](https://img.shields.io/badge/Sepolia-627EEA?style=for-the-badge)
 
 ### 🚀 Featured projects
 
